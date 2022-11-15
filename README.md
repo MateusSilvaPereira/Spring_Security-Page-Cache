@@ -23,3 +23,7 @@
 
 ![Capturaqar](https://user-images.githubusercontent.com/90776275/201938871-11f5f9ce-cf69-4bec-8087-72839d8d3dd8.JPG)
 
+### ErrorValidacaoHandler
+
+![imgr](https://user-images.githubusercontent.com/90776275/201939614-424d56eb-fd68-40f1-9064-751345ec39c1.JPG)
+
